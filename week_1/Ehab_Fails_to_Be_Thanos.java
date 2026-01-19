@@ -1,3 +1,4 @@
+package ICP_2026.week_1;
 import java.util.*;
 public class Ehab_Fails_to_Be_Thanos {
     public static void main(String[] args){
